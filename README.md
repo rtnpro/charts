@@ -1,2 +1,2 @@
-# helm-charts
+# charts
 My personal helm charts collection
